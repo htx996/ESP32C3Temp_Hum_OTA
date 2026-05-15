@@ -1,7 +1,7 @@
 {
   "version": "2026.5.15",
-  "version_num": 20260515,
-  "url": "https://htx996.github.io/ESP32C3Temp_Hum_OTA/firmware/esp32_c3_guangzhanwenshidu-2026.5.15.bin",
-  "sha256": "2896caab6b10a6ddbf29a1c2d894b6bce17bc515a2fd45bcdac0d5a805c88d6c",
-  "size": 1777312
+  "version_num": 1778803660,
+  "url": "https://htx996.github.io/ESP32C3Temp_Hum_OTA/firmware/esp32_c3_guangzhanwenshidu-2026.5.15-1778803660.bin",
+  "sha256": "00d273d40f31233e8eb5c53a09d407f51c11805e0a0fc2f1310bb1df26fc4717",
+  "size": 1777712
 }
